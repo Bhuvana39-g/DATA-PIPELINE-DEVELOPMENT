@@ -20,3 +20,4 @@ This project performs an ETL (Extract, Transform, Load) pipeline on the Titanic 
 
 ## Output
 The file `processed_titanic.csv` contains the final clean dataset ready for modeling.
+![Image](https://github.com/user-attachments/assets/87dfef34-4bd3-4f0d-9855-b7345018eab6)
